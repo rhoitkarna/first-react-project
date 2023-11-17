@@ -37,6 +37,7 @@ function App() {
           </menu>
 
           {/* Dynamic Content on button click */}
+          <h3>Dynamic Content</h3>
 
           
         </section>
